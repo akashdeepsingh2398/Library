@@ -1,0 +1,6 @@
+/Users/admin/Projects/Phonebook/Phonebook/obj/x86/Debug/Phonebook.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Phonebook/Phonebook/bin/Debug/Phonebook.exe
+/Users/admin/Projects/Phonebook/Phonebook/bin/Debug/Phonebook.pdb
+/Users/admin/Projects/Phonebook/Phonebook/obj/x86/Debug/Phonebook.exe
+/Users/admin/Projects/Phonebook/Phonebook/obj/x86/Debug/Phonebook.pdb
+/Users/admin/Projects/Phonebook/Phonebook/obj/x86/Debug/Phonebook.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{E2D16188-17E7-48B5-B607-C709A43EB85F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../java/Program.cs">
+    <Files>
+      <File FileName="../../java/Program.cs" Line="19" Column="33" />
+      <File FileName="Phonebook/User.cs" Line="14" Column="16" />
+      <File FileName="Phonebook/PhoneNumbers.cs" Line="14" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Phonebook PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
